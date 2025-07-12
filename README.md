@@ -19,6 +19,9 @@ A responsive weather forecast web app using the OpenWeatherMap API.
 1. Replace `YOUR_API_KEY` in `script.js` with your OpenWeatherMap API key
 2. Upload files to GitHub
 3. Enable GitHub Pages → Set source to `main branch /root`
+4. ## 🔗 Live Demo
+[Click to view app](https://himabindu12770.github.io/breeze-byte-weather-hub/)
+
 
 Enjoy forecasting! ☁️☀️🌧️
 
